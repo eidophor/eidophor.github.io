@@ -9,10 +9,18 @@
       font-family: 'Helvetica Neue', sans-serif;
       line-height: 1.6;
       margin: 0;
-      padding: 40px;
-      max-width: 800px;
+      padding: 0;
       background: #f9f9f9;
       color: #333;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 50px auto;
+      padding: 40px;
+      background-color: white;
+      box-shadow: 0 0 10px rgba(0,0,0,0.05);
+      border-radius: 10px;
     }
 
     h1, h2 {
@@ -29,6 +37,22 @@
       font-size: 1.1em;
       color: #666;
       margin-bottom: 30px;
+    }
+
+    .contact {
+      margin-top: 10px;
+      margin-bottom: 30px;
+      font-size: 0.95em;
+      color: #444;
+    }
+
+    .contact a {
+      color: #2c3e50;
+      text-decoration: none;
+    }
+
+    .contact a:hover {
+      text-decoration: underline;
     }
 
     ul {
@@ -52,70 +76,84 @@
       font-weight: bold;
       color: #2c3e50;
     }
+
+    @media (max-width: 600px) {
+      .container {
+        padding: 20px;
+        margin: 20px;
+      }
+    }
   </style>
 </head>
 <body>
 
-  <h1>KIM JEE SOO</h1>
-  <div class="subtitle">
-    Studying Business and Computer Science at Sogang University.  
-    Always pushing myself beyond comfort.  
-    Passionate about using <span class="highlight">data</span> and <span class="highlight">AI</span> for business insights.
+  <div class="container">
+    <h1>KIM JEE SOO</h1>
+    <div class="subtitle">
+      Studying Business and Computer Science at Sogang University.<br/>
+      Always pushing myself beyond comfort.<br/>
+      Passionate about using <span class="highlight">data</span> and <span class="highlight">AI</span> for business insights.
+    </div>
+
+    <div class="contact">
+      📧 <a href="mailto:eidophor2@naver.com">eidophor2@naver.com</a><br/>
+      🔗 <a href="https://www.linkedin.com/in/eidophor2" target="_blank">linkedin.com/in/eidophor2</a>
+    </div>
+
+    <section>
+      <h2>Education</h2>
+      <p>
+        <span class="label">Sogang University</span><br/>
+        B.A. in Business & B.S. in Computer Science (Double Major)<br/>
+        <span class="small">Mar 2019 – Present</span>
+      </p>
+      <p>
+        <span class="label">Seoul Foreign Language High School</span><br/>
+        Chinese Major<br/>
+        <span class="small">Mar 2016 – Feb 2019</span>
+      </p>
+    </section>
+
+    <section>
+      <h2>Awards</h2>
+      <ul>
+        <li>Dean’s List – 2020 Fall Semester</li>
+        <li>Top 1% Awardee – 2020 Fall Semester</li>
+        <li>Dean’s List – 2023 Spring Semester</li>
+        <li>Certificate of Completion – Business Analytics Expert Program (Sogang Univ.)</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Experience</h2>
+      <p>
+        <span class="label">KATUSA (HR Specialist)</span><br/>
+        Camp Humphreys (U.S. Army Base)<br/>
+        <span class="small">May 2021 – Nov 2022</span><br/>
+        Handled military HR tasks in a bilingual, multicultural environment.
+      </p>
+      <p>
+        <span class="label">Youth Baseball Player</span><br/>
+        Little League team in childhood – learned teamwork, discipline, and perseverance.
+      </p>
+    </section>
+
+    <section>
+      <h2>Honors</h2>
+      <ul>
+        <li>Member, Beta Gamma Sigma – International Business Honor Society</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Skills</h2>
+      <ul>
+        <li><span class="label">Languages:</span> Python, SQL, R</li>
+        <li><span class="label">Tools:</span> Excel, Tableau, Power BI</li>
+        <li><span class="label">Concepts:</span> Data Analysis, Machine Learning, Business Intelligence</li>
+      </ul>
+    </section>
   </div>
-
-  <section>
-    <h2>Education</h2>
-    <p>
-      <span class="label">Sogang University</span><br/>
-      B.A. in Business & B.S. in Computer Science (Double Major)<br/>
-      <span class="small">Mar 2019 – Present</span>
-    </p>
-    <p>
-      <span class="label">Seoul Foreign Language High School</span><br/>
-      Chinese Major<br/>
-      <span class="small">Mar 2016 – Feb 2019</span>
-    </p>
-  </section>
-
-  <section>
-    <h2>Awards</h2>
-    <ul>
-      <li>Dean’s List – 2020 Fall Semester</li>
-      <li>Top 1% Awardee – 2020 Fall Semester</li>
-      <li>Dean’s List – 2023 Spring Semester</li>
-      <li>Certificate of Completion – Business Analytics Expert Program (Sogang Univ.)</li>
-    </ul>
-  </section>
-
-  <section>
-    <h2>Experience</h2>
-    <p>
-      <span class="label">KATUSA (HR Specialist)</span><br/>
-      Camp Humphreys (U.S. Army Base)<br/>
-      <span class="small">May 2021 – Nov 2022</span><br/>
-      Handled military HR tasks in a bilingual, multicultural environment.
-    </p>
-    <p>
-      <span class="label">Youth Baseball Player</span><br/>
-      Little League team in childhood – learned teamwork, discipline, and perseverance.
-    </p>
-  </section>
-
-  <section>
-    <h2>Honors</h2>
-    <ul>
-      <li>Member, Beta Gamma Sigma – International Business Honor Society</li>
-    </ul>
-  </section>
-
-  <section>
-    <h2>Skills</h2>
-    <ul>
-      <li><span class="label">Languages:</span> Python, SQL, R</li>
-      <li><span class="label">Tools:</span> Excel, Tableau, Power BI</li>
-      <li><span class="label">Concepts:</span> Data Analysis, Machine Learning, Business Intelligence</li>
-    </ul>
-  </section>
 
 </body>
 </html>
