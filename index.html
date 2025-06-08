@@ -5,49 +5,53 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>KIM JEE SOO | Resume</title>
   <style>
-    body {
-      font-family: 'Helvetica Neue', sans-serif;
-      line-height: 1.6;
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+
+    * {
+      box-sizing: border-box;
       margin: 0;
       padding: 0;
-      background: #f9f9f9;
-      color: #333;
+    }
+
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+      background-color: #f5f5f7;
+      color: #1d1d1f;
+      display: flex;
+      justify-content: center;
+      padding: 60px 20px;
+      line-height: 1.7;
     }
 
     .container {
-      max-width: 800px;
-      margin: 50px auto;
-      padding: 40px;
-      background-color: white;
-      box-shadow: 0 0 10px rgba(0,0,0,0.05);
-      border-radius: 10px;
-    }
-
-    h1, h2 {
-      border-bottom: 2px solid #ddd;
-      padding-bottom: 5px;
+      background-color: #fff;
+      max-width: 960px;
+      width: 100%;
+      padding: 60px;
+      border-radius: 16px;
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.04);
     }
 
     h1 {
-      font-size: 2.2em;
-      margin-bottom: 5px;
+      font-size: 2.5em;
+      font-weight: 600;
+      margin-bottom: 6px;
     }
 
     .subtitle {
       font-size: 1.1em;
-      color: #666;
-      margin-bottom: 30px;
+      color: #6e6e73;
+      margin-bottom: 32px;
     }
 
     .contact {
-      margin-top: 10px;
-      margin-bottom: 30px;
       font-size: 0.95em;
+      margin-bottom: 48px;
       color: #444;
     }
 
     .contact a {
-      color: #2c3e50;
+      color: #0071e3;
       text-decoration: none;
     }
 
@@ -55,44 +59,59 @@
       text-decoration: underline;
     }
 
+    section {
+      margin-bottom: 40px;
+    }
+
+    h2 {
+      font-size: 1.5em;
+      font-weight: 600;
+      margin-bottom: 16px;
+      border-bottom: 1px solid #e5e5e5;
+      padding-bottom: 4px;
+    }
+
+    p {
+      margin-bottom: 12px;
+    }
+
     ul {
+      list-style: disc;
       padding-left: 20px;
     }
 
-    section {
-      margin-bottom: 30px;
-    }
-
     .label {
-      font-weight: bold;
+      font-weight: 600;
+      color: #1d1d1f;
     }
 
     .small {
       font-size: 0.9em;
-      color: #666;
+      color: #888;
     }
 
-    .highlight {
-      font-weight: bold;
-      color: #2c3e50;
-    }
-
-    @media (max-width: 600px) {
+    @media (max-width: 768px) {
       .container {
-        padding: 20px;
-        margin: 20px;
+        padding: 30px 20px;
+      }
+
+      h1 {
+        font-size: 2em;
+      }
+
+      h2 {
+        font-size: 1.25em;
       }
     }
   </style>
 </head>
 <body>
-
   <div class="container">
     <h1>KIM JEE SOO</h1>
     <div class="subtitle">
-      Studying Business and Computer Science at Sogang University.<br/>
-      Always pushing myself beyond comfort.<br/>
-      Passionate about using <span class="highlight">data</span> and <span class="highlight">AI</span> for business insights.
+      Studying Business and Computer Science at Sogang University.<br>
+      Always pushing myself beyond comfort.<br>
+      Passionate about using <strong>data</strong> and <strong>AI</strong> for business insights.
     </div>
 
     <div class="contact">
@@ -120,7 +139,7 @@
         <li>Dean’s List – 2020 Fall Semester</li>
         <li>Top 1% Awardee – 2020 Fall Semester</li>
         <li>Dean’s List – 2023 Spring Semester</li>
-        <li>Certificate of Completion – Business Analytics Expert Program (Sogang Univ.)</li>
+        <li>Certificate – Business Analytics Expert Program (Sogang Univ.)</li>
       </ul>
     </section>
 
@@ -130,11 +149,11 @@
         <span class="label">KATUSA (HR Specialist)</span><br/>
         Camp Humphreys (U.S. Army Base)<br/>
         <span class="small">May 2021 – Nov 2022</span><br/>
-        Handled military HR tasks in a bilingual, multicultural environment.
+        Managed personnel records and bilingual HR communication in a U.S. military base.
       </p>
       <p>
         <span class="label">Youth Baseball Player</span><br/>
-        Little League team in childhood – learned teamwork, discipline, and perseverance.
+        Participated in Little League – developed teamwork and perseverance.
       </p>
     </section>
 
@@ -154,6 +173,5 @@
       </ul>
     </section>
   </div>
-
 </body>
 </html>
