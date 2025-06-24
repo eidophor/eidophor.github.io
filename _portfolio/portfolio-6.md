@@ -91,15 +91,26 @@ The projects involved both **model development** and **interpretation** for mark
 ---
 
 ### 4. Movie Recommendation System (코딩과제4)
-- **Data**: MovieLens (User ratings)
-- **Model**: Collaborative Filtering (Matrix Factorization)
-- **Outcome**: Personalized movie suggestions with RMSE evaluation.
+- **Dataset**: [TMDB Movie Metadata](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata), containing ~5,000 movies with features such as title, cast, genres, keywords, overview, and popularity.
+- **Models Used**:
+  - *Content-Based Filtering*: Used TF-IDF to vectorize movie plot summaries (overview), and computed cosine similarity to recommend similar movies.
+  - *Metadata-Based Filtering*: Extracted top actors, director, genres, and keywords to build a "metadata soup", vectorized using `CountVectorizer`, and applied cosine similarity.
+- **Preprocessing**:
+  - Filled missing overview entries, parsed JSON-like strings into Python lists/objects.
+  - Cleaned and normalized text (lowercased, removed whitespace).
+- **Implementation**:
+  - Cosine similarity calculated on both TF-IDF and CountVectorizer matrices.
+  - Created a `get_recommendations(title)` function that returns top 10 similar movies.
+- **Insights**:
+  - Older algorithmic approaches like TF-IDF-based similarity still perform reasonably well.
+  - Recommendation quality depends on the relevance and richness of features used.
+  - **Even simple "Top 10" rankings** (e.g., genre-wise popular items) can be effective in practical applications like Netflix.
 
 📄 [Download: Recommender System Report (Korean)](/files/코딩과제7_김지수.pdf)
 
 ---
 
 ## 🎓 Learning Outcome
-
-Through these projects, I gained practical experience in applying AI models to real consumer datasets, and enhanced my ability to deliver insights for marketing strategy and personalization.  
-I also deepened my understanding of model evaluation metrics like AUC, F1-score, and RMSE in the context of marketing AI systems.
+These machine learning projects demonstrate how fundamental models—from classification to recommendation—can enhance consumer insight and decision support in AI marketing.
+They highlight the importance of data preprocessing, model interpretability, and ensemble strategies to boost performance and generalizability.
+Overall, these projects emphasize that even classical models(in some cases, statistics by themselves are enough), when carefully applied, offer strong implications for real-world marketing applications.
