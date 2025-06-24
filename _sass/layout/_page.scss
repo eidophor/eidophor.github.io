@@ -49,8 +49,7 @@
 }
 
 .page__content {
-  word-break: normal;
-  overflow-wrap: break-word;
+  word-break: keep-all;
    
   h2 {
     padding-bottom: 0.5em;
