@@ -13,7 +13,7 @@ Each project used real-world Kaggle datasets, focusing on applying models to con
 The projects involved both **model development** and **interpretation** for marketing decision support.
 
 ## 🔬 Project Highlights
-### 1. Diabetes Classification using SMOTE + Ensemble Models (코딩과제1)
+### 1. Diabetes Classification using SMOTE + Classification Models (코딩과제1)
 
 - **Goal**: Predict whether a patient has diabetes using clinical data from the Pima Indian dataset.
 - **Dataset**: `data-Lab-2-5-diabet.csv` — 800 samples with 9 clinical features.
