@@ -24,7 +24,7 @@ redirect_from:
     <img src="/files/study-books2.jpg" alt="원서 학습 사진 예시 2" style="max-width: 450px; height: auto; border-radius: 8px;" />
   </a>
 </div>
-
+<br/>
 또한, 교내 데이터사이언스 학회 **Parrot**에서 1년간 학회원 및 운영진으로 활동하며 다양한 전공의 학회원들과 함께 실제 Raw 데이터 기반의 프로젝트를 수행해 왔습니다.
 
 수업 측면에서는 컴퓨터공학과의 **기초 머신러닝, 기초 인공지능**, 경영학과의 **BA인공지능, 경영데이터사이언스** 등을 수강하면서  
