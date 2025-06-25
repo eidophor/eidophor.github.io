@@ -41,7 +41,7 @@ redirect_from:
 ---
 
 최근에는 제가 전공한 **경영학의 다양한 영역에서 디지털화 이후 필연적으로 쌓이는 데이터들**에서 중요한 정보들을 선별하고
-보다 복잡한 사회문화적 현상까지 모델이 학습할 수 있게 할 가능성을 높이기 위해 **Multimodal Machine Learning**에 관심을 가지고 있습니다.
+보다 복잡한 사회문화적 현상까지 모델이 학습할 수 있게 할 가능성을 높이기 위해 **Multimodal Machine Learning**, **Time-series Data analysis**에 관심을 가지고 있습니다.
 
 대학원 입학 전까지는  
 - CMU의 *Multimodal Machine Learning* 온라인 강좌 수강  
