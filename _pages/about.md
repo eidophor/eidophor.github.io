@@ -67,8 +67,8 @@ redirect_from:
 - 컴퓨터네트워크 — *Computer Networking: A Top-Down Approach* (Kurose)
 - 디지털회로개론 — *Introduction to Logic and Computer Design* (Marcovitz)
 - 운영체제 — *Operating Systems: Three Easy Pieces* (Arpaci-Dusseau)
-- 컴퓨터공학설계 및 실험1 / 실험2 — 자체교재
-- 컴퓨터공학설계 및 실험2 — 자체교재
+- 컴퓨터공학설계 및 실험1 — 자체교재 및 프로그램 구현(CPP)
+- 컴퓨터공학설계 및 실험2 — 자체교재 및 회로설계 실험(Verilog)
 - 고급응용C프로그래밍 — *전공자를 위한 C언어 프로그래밍* (주우석)
 - JAVA언어 — *Java의 정석* (남궁성)
 - 컴퓨터 시스템 개론 — *Computer Systems: APP* (2025 예정)
