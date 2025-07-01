@@ -1,20 +1,21 @@
 ---
 permalink: /
-title: "안녕하세요 2025-Fall 카이스트 GSDS 석사 과정 재학중인 김지수입니다."
+title: "About This Website"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 ## Hello!
+I have attached my CV in the **CV** section and organized the projects I have undertaken since my undergraduate studies in the **Portfolio** section.  
+Clicking on each card will provide detailed descriptions, along with the corresponding PDF reports and presentation slides.
 
-개인 CV를 첨부하였으며
-학부 시절부터 수행했던 프로젝트의 내용을 정리하고 Portfolio 항목에 업로드하였습니다. 해당하는 카드를 클릭하면 세부사항과 pdf 레포트 및 발표자료를 첨부했습니다.
+Recently, I have developed a strong interest in **Multimodal Machine Learning**, **Time-Series Data Analysis**, and **Explainable AI (XAI)**.  
+My focus lies in extracting meaningful insights from the diverse formats of data that are inevitably accumulated across the increasingly digitalized domains of business.  
+I am particularly motivated by the potential of these approaches to enhance AI models’ ability to understand and learn from complex sociocultural phenomena.
 
-최근에는 제가 전공했던 **경영학의 다양한 영역에서 디지털화 이후 필연적으로 쌓이는 다양한 형태의 데이터들**에서 중요한 정보들을 선별하고
-보다 복잡한 사회문화적 현상까지 모델이 학습할 수 있게 할 가능성을 높이기 위해 **Multimodal Machine Learning**이나 **Time-series Data analysis**, **Explainable AI(XAI)**에 관심을 가지고 있습니다.
+Thank you for visiting.
 
-읽어주셔서 감사합니다.  
 
 ## 📘 수강 과목 요약 (학부)
 ### 🖥️ 컴퓨터 프로그래밍 및 시스템 관련 과목
