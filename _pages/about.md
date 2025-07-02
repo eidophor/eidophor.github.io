@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 ## Hello!
-I'm a M.S. Student in the Graduate School of Data Science at KAIST, advised by Prof. Joyce Jiyoung Whang at the Big Data Intelligence Lab (BDI Lab).
+I'm a M.S. Student in the Graduate School of Data Science at KAIST, advised by Prof. Joyce Jiyoung Whang at the Big Data Intelligence Lab ([**BDI Lab**](https://bdi-lab.kaist.ac.kr)).
 I have attached my CV in the **CV** section and organized the projects I have undertaken since my undergraduate studies in the **Portfolio** section.  
 Clicking on each card will provide detailed descriptions, along with the corresponding PDF reports and presentation slides.
 
