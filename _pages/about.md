@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 ## Hello!
+I'm a M.S. Student in the Graduate School of Data Science at KAIST, advised by Prof. Joyce Jiyoung Whang at the Big Data Intelligence Lab (BDI Lab).
 I have attached my CV in the **CV** section and organized the projects I have undertaken since my undergraduate studies in the **Portfolio** section.  
 Clicking on each card will provide detailed descriptions, along with the corresponding PDF reports and presentation slides.
 
@@ -42,7 +43,7 @@ Thank you for visiting.
 ### 📊 Mathematics and Statistics
 - Business Statistics — *Business Statistics: A Decision Making Approach* (Groebner et al.)
 - Statistical Data Analysis for Business — *데이터사이언스 통계학* (이군희)
-- Time Serise Data Analysis and Forecasting  — Course materials
+- Time Series Data Analysis and Forecasting  — Course materials
 - Introduction to Linear Algebra — *Introduction to Linear Algebra* (Gilbert Strang)
 - College Mathematics — *College Mathematics* (Kim et al.)
 - Analytic Geometry and Calculus I — *Calculus 9e* (Stewart)
