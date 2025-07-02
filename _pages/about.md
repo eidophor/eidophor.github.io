@@ -31,11 +31,11 @@ Thank you for visiting.
 - Computer Science and Engineering Laboratory II — Course materials and Projects(Verilog)
 - Advanced Applied C Programming — *전공자를 위한 C언어 프로그래밍* (주우석)
 - JAVA Language Programming — *Java의 정석* (남궁성)
-- Introduction to Computer System — *Computer Systems: APP* (2025 예정)
+- Introduction to Computer System — *Computer Systems: APP* 
 
 ### 🤖 Principles and Applications of Artificial Intelligence / Machine Learning
 - Introduction to Artificial Intelligence — *Artificial Intelligence: A Modern Approach* (Russell & Norvig)
-- Introduction to Machine Learning — *Mathematics for Machine Learning*
+- Introduction to Machine Learning — *Mathematics for Machine Learning* (Marc Peter Deisenroth) 
 - Artificial Intelligence for Business Analytics — Course materials
 - Business Data Science — Course materials
 - AI and Marketing — Course materials
