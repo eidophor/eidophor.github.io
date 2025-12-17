@@ -1,6 +1,6 @@
 ---
-title: "WINE LIST 🍷"
-excerpt: "A List of Wine Collection of mine."
+title:       "WINE LIST 🍷"
+excerpt: "A list of my wine collection—over 100 bottles, mainly from Burgundy and Champagne."
 semester: "Spring-2099"
 semester_sort: 209902
 collection: portfolio
