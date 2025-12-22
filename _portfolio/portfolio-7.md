@@ -62,6 +62,17 @@ These wines will add their values day by day during my Graduate school study per
 - Domaine Coquard-Loison-Fleurot Vosne-Romanne	2023
 - Domaine Georges Roumier Chambolle-Musigny	2022
 - Domaine Pierre Vincent Bourgogne Rouge	2023
+- Simon Colin Santenay 2023
+- Simon Colin Les Gravieres Santenay 1er cru 2023
+- Domaine Gerard Peirazeau et Fils MSD 1er Cru Les Genavrieres 2020
+- Domaine Gerard Peirazeau et Fils Les Chaffots 2021
+- Domaine Syvain Pataille Marsannay Clos du Roy 2023
+- Domaine Syvain Pataille Marsannay En Clemengeots 2023
+- Frederic Cossard Gevrey Chambertin Les Genevrieres 2022
+- Maison Chantereves NSG Les Tuyaux 2022
+- Maison Chantereves Beaune 1er Cru Les Blanches Fleurs 2022
+- Philippe Pacalet Ladoix 2022
+- Philippe Pacalet Pommard 2022
   
 ### White
 - Domaine Fontaine-Gagnard Les Caillerets	2020
@@ -82,4 +93,5 @@ These wines will add their values day by day during my Graduate school study per
 - Philippe Pacalet Meursault Limozin (1.5L)	2022
 - Pierre Vincent Meursault Grands Charrons	2023
 - Domaine Leflaive Macon-Verge Les Chenes	2023
+- Etinne Sauzet Hautes Cotes de Beaune Jardin du Calvaire 2023
 
