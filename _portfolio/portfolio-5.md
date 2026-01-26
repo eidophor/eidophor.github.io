@@ -39,4 +39,3 @@ By extending my KAIST interview topic into a real-world dataset and solution ben
 ## 📎 Downloads
 
 - [📄 Presentation Slides (PDF)](/files/Multimodal%20machine%20learning%3B%20Kaggle%20Shopee%20case.pdf)  
-- [🗣️ Presentation Script (Korean)](/files/Primary%20Script.pdf)
