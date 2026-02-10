@@ -1,7 +1,7 @@
 ---
 title: "Paper Title"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 1 for example'
 date: 2025-10-01
