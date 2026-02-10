@@ -159,7 +159,6 @@ include:
   - .htaccess
   - _pages
   - files
-  - _portfolio
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -187,6 +186,7 @@ exclude:
   - README
   - tmp
   - vendor
+  - _portfolio
 keep_files:
   - .git
   - .svn
