@@ -1,17 +1,16 @@
 ---
 permalink: /
-title: "About This Website"
+title: "Hello!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-## Hello!
+## Jeesoo Kim
 I'm a M.S. Student in the Graduate School of Data Science at KAIST, advised by Prof. Joyce Jiyoung Whang at the Big Data Intelligence Lab ([**BDI Lab**](https://bdi-lab.kaist.ac.kr)).
 
-Recently, I have developed a strong interest in **Multimodal Machine Learning**, **Graph Machine Learning**, and **Explainable AI (XAI)**.  
+Recently, I have developed a strong interest in **Multimodal Machine Learning**, **Graph Machine Learning**.  
 My focus lies in extracting meaningful insights from the diverse formats of data that are inevitably accumulated across the increasingly digitalized domains of business.  
-I am particularly motivated by the potential of these approaches to enhance AI models’ ability to understand and learn from complex sociocultural phenomena.
 
 Thank you for visiting.
 
