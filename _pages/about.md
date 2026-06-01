@@ -14,7 +14,7 @@ My focus lies in extracting meaningful insights from the diverse formats of data
 
 Thank you for visiting.
 
-``
+<!--
 ## 📘 Summary of Coursework (Undergraduate)
 ### 🖥️ Computer Programming and Systems
 - Data Structures — *Fundamentals of Data Structures in C* (Horowitz)
@@ -59,4 +59,4 @@ Thank you for visiting.
 - Metaverse Virtual Markets and Marketing — Course materials
 - Current Issues and Cases in Marketing — Papers
 - Principle of Economics I/II — *Principles of Economics* (Mankiw)
-``
+-->
