@@ -60,3 +60,7 @@ Thank you for visiting.
 - Current Issues and Cases in Marketing — Papers
 - Principle of Economics I/II — *Principles of Economics* (Mankiw)
 -->
+
+🍷 Personal Wine Collection
+<a href="/files/WINE%20LIST.pdf" target="_blank" style="display: inline-block; padding: 12px 22px; background-color: #722f37; color: white; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 16px;"> 🍷 View My Personal Wine List </a>
+
