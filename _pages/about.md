@@ -61,6 +61,7 @@ Thank you for visiting.
 - Principle of Economics I/II — *Principles of Economics* (Mankiw)
 -->
 
-## 🍷 Wine Collection
-<a href="/files/WINE%20LIST.pdf" target="_blank" style="display: inline-block; padding: 12px 22px; background-color: #722f37; color: white; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 16px;"> 🍷 My Personal Wine List </a>
+## Wine Collection
+I'm Burgundian.
+<a href="/files/WINE%20LIST.pdf" target="_blank" style="display: inline-block; padding: 12px 22px; background-color: #722f37; color: white; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 16px;"> 🍷 Personal Wine List </a>
 
